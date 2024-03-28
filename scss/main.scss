@@ -1,0 +1,10 @@
+//  Base style import
+@import './base/reset';
+@import './base/vars';
+@import './base/base';
+
+
+//  Block style import
+@import './blocks/header';
+@import './blocks/main';
+@import './blocks/footer';
