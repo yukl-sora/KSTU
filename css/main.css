@@ -104,7 +104,7 @@ body {
   width: 100vw;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("../../source/fasad.jpg");
+  background-image: url("./../source/fasad.jpg");
   margin-bottom: 40px;
   color: #FFF;
   display: -webkit-box;
